@@ -1,0 +1,41 @@
+ body {
+     margin-left: 3%;
+     padding: 0;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 25px;
+ }
+ 
+ .important {
+     margin: 3px;
+     padding: 10px;
+     border-radius: 15px;
+     width: 300px;
+     font-size: 20px;
+     outline: none;
+ }
+ 
+ .important:hover {
+     border-color: #0075FF;
+ }
+ 
+ .fm {
+     margin-left: 35px;
+ }
+ 
+ .choose {
+     margin-top: 20px;
+ }
+ 
+ .btn {
+     margin: 5px;
+     width: 150px;
+     height: 35px;
+     border-radius: 15px;
+     outline: none;
+     font-size: 20px;
+     margin-top: 20px;
+ }
+ 
+ .btn:hover {
+     background-color: #0075FF;
+ }
